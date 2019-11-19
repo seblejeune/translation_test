@@ -1,0 +1,657 @@
+{
+  "defaultValue.text": "Default value",
+  "defaultValue": "—",
+  "false": "False",
+  "true": "True",
+  "unknown": "Unknown",
+  "ok": "Ok",
+  "yes": "Yes",
+  "no": "No",
+  "more": "More",
+  "save": "Save",
+  "validate": "Validate",
+  "cancel": "Cancel",
+  "archive": "Archive",
+  "waiting": "Waiting",
+  "copy": "Copy",
+  "exit": "Exit",
+  "back": "Back",
+  "create": "Create",
+  "add": "Add",
+  "delete": "Delete",
+  "rename": "Rename",
+  "apply": "Apply",
+  "generate": "Generate",
+  "publish": "Publish",
+  "edit": "Edit",
+  "pause": "Pause",
+  "select": "Select",
+  "reschedule": "Reschedule",
+  "notFound": "Not found",
+  "stop": "Stop",
+  "displayError": "Display error",
+  "noProfileTable": "You have no access to any database.",
+  "unknownProfileTable": "Unknown profile table",
+  "defineTechnicalName": "Define technical name",
+  "updateDatabaseEnrichment": "Update database enrichment",
+  "id": "Id",
+  "emailAddress": "E-mail address",
+  "recipient": "Recipient",
+  "profile": "Profile",
+  "databaseName": "Database name",
+  "technicalName": "Technical name",
+  "campaignName": "Campaign name",
+  "shortText": "Short text",
+  "executions": "Executions",
+  "firstExecution": "First execution",
+  "lastExecution": "Last execution",
+  "generationStatus": "Generation status",
+  "latestStatus": "Latest status",
+  "campaignId": "Campaign id",
+  "documentId": "Document id",
+  "status": "Status",
+  "subject": "Subject",
+  "configuration": "Configuration",
+  "method": "Method",
+  "type": "Type",
+  "typeSource": "Source type",
+  "inDefinition": "In definition",
+  "planified": "Planified",
+  "inProcess": "In process",
+  "sent": "Sent",
+  "archived": "Archived",
+  "active": "Active",
+  "inactive": "Inactive",
+  "paused": "Paused",
+  "inProgress": "In progress",
+  "scheduled": "Scheduled",
+  "finished": "Finished",
+  "valueAvailable": "{valueCount, plural, one {One available value} other {Several available values}}",
+  "chooseValue": "{valueCount, plural, one {Choose a value} other {Choose multiple values}}",
+  "configureData": "Data configuration",
+  "user": "User",
+  "description": "Description",
+  "comment": "Comment",
+  "format": "Format",
+  "numberOfProfiles": "Number of profiles",
+  "numberOfEntries": "Number of entries",
+  "configurationData": "Configuration Data",
+  "export": "Export",
+  "exportExecutions": "Export executions",
+  "import": "Import",
+  "view": "View",
+  "viewApiKey": "View API key",
+  "viewDetails": "View details",
+  "viewDetail": "View detail",
+  "numberOfParticipations": "Number of participations",
+  "update": "Update",
+  "activate": "Activate",
+  "activated": "Activated",
+  "deactivated": "Deactivated",
+  "disable": "Disable",
+  "exportName": "Export Name",
+  "numberOfItemsWritten": "Number of items written",
+  "viewParticipations": "View participations",
+  "viewTestParticipations": "View test participations",
+  "viewProfiles": "View Profiles",
+  "viewProfile": "View Profile",
+  "viewInteractions": "View interactions",
+  "viewReport": "View report",
+  "webForm": "Web form",
+  "web_form": "Web form",
+  "survey": "Data",
+  "correct": "Correct",
+  "close": "Close",
+  "terminate": "Close",
+  "profileTableName": "Database",
+  "entityName": "Entity",
+  "actitoTableName": "Actito Table name",
+  "actitoLanguageName": "Language name",
+  "marketingActionTemplateName": "Template name",
+  "startedBy": "Started by",
+  "createdBy": "Created by",
+  "model": "Template",
+  "step": "Step",
+  "print": "Print",
+  "nothingToDisplay": "Nothing to display",
+  "none": "None",
+  "clickedOnOpenedRate": "Clicked / opened",
+  "clickedOnDeliveredRate": "Clicked / delivered",
+  "clicked": "Clicked",
+  "isClicked": "Clicked",
+  "delivered": "Delivered",
+  "isDelivered": "Delivered",
+  "unsubscribed": "Unsubscribed",
+  "isUnsubscribed": "Unsubscribed",
+  "unsubscribedRate": "Unsubscription rate",
+  "username": "Username",
+  "inError": "In error",
+  "filtered": "Filtered",
+  "isFiltered": "Filtered",
+  "opened": "Opened",
+  "isOpened": "Opened",
+  "openRate": "Opening rate",
+  "bounces": "Bounces",
+  "isBounced": "Bounced",
+  "bounced": "Bounced",
+  "bouncedRate": "Bounces rate",
+  "campaignGroup": "Campaign groups",
+  "sendingSpeed": "Sending rate",
+  "subscription": "Subscription",
+  "checkAndTest": "Check and test",
+  "targetedProfile": "Targeted profiles",
+  "testingGroup": "Testing group",
+  "testingGroups": "Testing groups",
+  "portal": "Portal",
+  "badMimeType": "Bad file format",
+  "actitoTableIndexedProperties": "Key attribute",
+  "actitoTableIndexedProperties.detail": "Attribute used to match the rows of the file with the data in the table.",
+  "caption": "Caption",
+  "tags": "Tags",
+  "dragHere": "Drag here",
+  "sku": "Sku",
+  "name": "Name",
+  "actito": "Actito",
+  "mandatory": "Mandatory",
+  "unique": "Unique",
+  "sender": "Sender",
+  "uploader": "Uploader",
+  "downloadNumber": "Number of downloads",
+  "uploadState": "Upload state",
+  "standardAttribute": "Standard attribute",
+  "ongoing": "Ongoing",
+  "htmlContentFetchUrl": "Html's URL",
+  "interactionCount": "Interaction count",
+  "source": "Source",
+  "isDownloaded": "Downloaded ?",
+  "bad": "Bad",
+  "low": "Low",
+  "fair": "Fair",
+  "good": "Good",
+  "veryGood": "Very good",
+  "winner": "Winner",
+  "clear": "Clear",
+  "nopreview": "No preview available",
+  "phoneNumber": "Cellphone number",
+  "convert": "Convert",
+  "developerTab": "Developer Tab",
+  "actitoStandardAttribute": {
+    "id": "ID",
+    "creationMoment": "Creation moment",
+    "updateMoment": "Update moment"
+  },
+  "join": {
+    "aAndB": "{a} and {b}",
+    "aOrB": "{a} or {b}"
+  },
+  "title": {
+    "generalData": "General Data",
+    "templateSelection": "ACTITO templates library"
+  },
+  "sidemenu": {
+    "catalog": "Catalog",
+    "portal": "Portal",
+    "store": "Store",
+    "dashboard": "Dashboard",
+    "datamart": "Datamart Studio"
+  },
+  "sortDirection": {
+    "sortDirection": "Sort direction",
+    "ascending": "Ascending",
+    "descending": "Descending"
+  },
+  "buttonOpenNotificationCenter": "View all notifications",
+  "notification": {
+    "common": "Notification",
+    "technical": "Technical",
+    "marketing": "Marketing",
+    "notification": "{NotificationCount, plural, one {Notification} other {Notifications}}",
+    "notificationsCenter": "Notifications center",
+    "selectionResolutionResolved": "Targeting",
+    "selectionResolutionCanceled": "Targeting is canceled",
+    "selectionResolutionInError": "Targeting is in error",
+    "selection_resolution_resolved": "Targeting",
+    "selection_resolution_canceled": "Targeting is canceled",
+    "selection_resolution_in_error": "Targeting is in error",
+    "profileImportFinished": "Profiles table import finished",
+    "profile_import_finished": "Profiles table import finished"
+  },
+  "loadingData": "Loading...",
+  "noData": "No data available",
+  "undefined": " ",
+  "notDefined": "Undefined",
+  "topbar": {
+    "manageUsers": "Manage users",
+    "manageApiUsers": "Manage API users",
+    "manageLoginActivity": "Licence accesses",
+    "viewMyProfile": "See my account",
+    "changePassword": "Change my password",
+    "passwordUpdated": "Password updated",
+    "logout": "Logout",
+    "licence": "Licence",
+    "lastLogin": "Last login",
+    "user": "User",
+    "lastLoginWarning": "Dear User, your last login was on {date} at {time}. To report security issues please contact security@actito.com",
+    "timezone": "Time zone"
+  },
+  "wizard": {
+    "cancel": "Cancel",
+    "previousStep": "Previous",
+    "nextStep": "Next",
+    "validate": "Validate",
+    "save": "Save",
+    "finish": "Finish"
+  },
+  "checkAndTestTable": {
+    "profileTest": "Test profile",
+    "inTarget": "In target",
+    "language": "Language",
+    "comment": "Comment",
+    "actions": "Actions",
+    "interaction": "Interaction",
+    "spam": "Spam",
+    "abVersion": "A/B",
+    "spamCheck": {
+      "notExecuted": "Not executed",
+      "inProgress": "In progress",
+      "executed": "{score}/5",
+      "inError": "In Error"
+    },
+    "modal": {
+      "title": "Spam check score",
+      "score": "Score",
+      "rules": "Rule applied",
+      "description": "Description"
+    }
+  },
+  "pictogram": {
+    "module": "Module",
+    "profile": "Profile",
+    "table": "Table",
+    "sms": "SMS",
+    "email": "E-mail",
+    "mailMass": "Mass sending",
+    "mailMarketing": "Marketing",
+    "mailScenarized": "Scenarized",
+    "mailTransactional": "Transactional",
+    "mailAbversion": "A/B testing",
+    "ABtesting": "AB testing",
+    "linkedData": "Linked data",
+    "interaction": "Interactions",
+    "repository": "Repository",
+    "campaignAbTitle": "The subject",
+    "campaignAbFrom": "The sender",
+    "campaignAbPreHeader": "The pre-header",
+    "campaignAbHtmlMessage": "The content"
+  },
+  "manage": {
+    "restore": "Restore",
+    "showAll": "Show all",
+    "search": "Search",
+    "advancedSearch": {
+      "placeholder": "Search on {field}",
+      "placeholderStrictEqual": "Exact search on {field}",
+      "noSearchableField": "No searchable field",
+      "profileTargeting": "Profile targeting",
+      "searchInProgress": "Advanced search in progress",
+      "lastCalculatedTargeting": "Last Calculated Targeting on {lastCalculatedTargeting, select, undefined{...} other{{lastCalculatedTargeting}}}"
+    },
+    "paginationHelperText": "{min, number} - {max, number} of {totalNrElements, plural, =0 {{totalNrElements, number} element} one {{totalNrElements, number} element} other {{totalNrElements, number} elements}}"
+  },
+  "table": {
+    "subscription": "Subscription \"{name}\"",
+    "segmentation": "Segment \"{name}\""
+  },
+  "duration": {
+    "minutes": "Minute(s)",
+    "hours": "Hour(s)",
+    "days": "Day(s)",
+    "weeks": "Week(s)",
+    "months": "Month(s)",
+    "years": "Year(s)"
+  },
+  "date": {
+    "creationMoment": "Created on",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "updateMoment": "Updated on",
+    "executionMoment": "Executed on",
+    "scheduleTime": "Scheduled time",
+    "scheduleMoment": "Scheduled on",
+    "finishedMoment": "Finished on",
+    "endMoment": "Ended on",
+    "startedMoment": "Started on",
+    "SentMoment": "Sent on",
+    "activationMoment": "Activated on",
+    "nextScheduledTime": "Next schedule time",
+    "startMoment": "Start moment",
+    "sentMoment": "Sent on",
+    "finishedOn": "Finished on",
+    "deleteMoment": "Suppression date",
+    "uploadMoment": "Upload date"
+  },
+  "picker": {
+    "noValueAvailable": "No value available",
+    "noGroupCompatible": "No group found for this campaign",
+    "database": "Database",
+    "entity": "Entity",
+    "profileTable": "Database",
+    "segment": "Segment",
+    "template": "Template",
+    "subscription": "Subscription",
+    "unsubscribescenario": "Unsubscribe scenario",
+    "testingGroup": "Testing group",
+    "profilesample": "Testing group",
+    "language": "Language",
+    "usertable": "Table",
+    "sendingDomain": "Sending domain",
+    "linksHostname": "Links hostname",
+    "entityGroup": "Entity group",
+    "defaultEntity": "Default entity",
+    "rightConfig": "Rights configuration"
+  },
+  "field": {
+    "description": {
+      "emailaddress": "E-mail address",
+      "sex": "Sex",
+      "country": "Country",
+      "language": "Mother Language",
+      "phonenbr": "Phone number",
+      "civilstate": "Civil state",
+      "person_Name": "Name",
+      "date": "Date",
+      "datetime": "Date and hour",
+      "string": "Large text",
+      "limitedlengthMax": "Large text (the text must contain less than {maxCharacters} characters)",
+      "limitedlengthMin": "Large text (the text must contain more than {minCharacters} characters)",
+      "limitedlengthMaxMin": "Large text (the text must contain less than {maxCharacters} and more than {minCharacters} characters)",
+      "long": "Long",
+      "boolean": "True/false",
+      "structured": "structured",
+      "float": "Float"
+    }
+  },
+  "form": {
+    "emailTest": "E-mail test",
+    "emailCheckAndTest": "Test address e-mail <span class='text-small'>All messages are sent to this address <span class='no-break'>e-mail</span></span>",
+    "cronExpression": "Cron Expression",
+    "fileChoose": "Choose file",
+    "fileUpload": "Choose files to upload",
+    "imageUpload": "Upload an image",
+    "uploadImage": "Choose image to upload",
+    "noSubscription": "No subscription",
+    "description": "Description",
+    "warning__dangerouslySetInnerHTML": "<b>Warning</b>: in order to optimise the display time of e-mails, their total size is now limited to 4 MB."
+  },
+  "btn": {
+    "select": "Select",
+    "insert": "Insert",
+    "launchTests": "Launch tests",
+    "send": "Send",
+    "deactivate": "Deactivate",
+    "unschedule": "Unscheduled",
+    "cancel": "Finish",
+    
+    "viewLatestTestInteraction": "View latest test {nb, plural, one {interaction} other {interactions}}"
+  },
+  "filter": {
+    "jobs": "Filter jobs",
+    "status": "Status",
+    "myExports": "Filter my exports"
+  },
+  "placeholder": {
+    "newName": "New name",
+    "username": "Username",
+    "yourUsername": "Your username",
+    "campaignName": "Campaign name",
+    "email": "e-mail@actito.com",
+    "search": "Search an element",
+    "exportName": "Export name",
+    "module": "Choose your module",
+    "profileTableName": "Choose your database",
+    "profiletable": "Choose your database",
+    "profileTable": "Choose your database",
+    "entityName": "Choose your entity",
+    "entity": "Choose your entity",
+    "language": "Choose your language",
+    "actitoTableName": "Choose your actito table",
+    "template": "Choose your template",
+    "marketingActionTemplate": "Choose your template",
+    "subscription": "Choose your subscription",
+    "unsubscribescenario": "Choose your unsubscribe scenario",
+    "urlScheme": "http(s)://",
+    "description": "Enter a description",
+    "testingGroup": "Choose your testing group",
+    "profilesample": "Choose your testing group",
+    "usertable": "Choose your table",
+    "actitoTableIndexedProperties": "Select key attribute",
+    "sendingDomain": "Choose your sending domain",
+    "hostsDomain": "Choose your domain",
+    "comment": "Enter a comment",
+    "entityGroup": "Choose an entity group",
+    "defaultEntity": "Choose a default entity",
+    "rightConfig": "Choose a rights configuration"
+  },
+  "modal": {
+    "basic": "Information",
+    "unsavedContentConfirmation": "The content not saved will be definitely lost!",
+    "viewUrls": {
+      "title": "Get urls for {objectDisplayName}"
+    },
+    "publish": {
+      "text": "Are you sure you want to publish {objectDisplayName}?",
+      "title": "Publish {objectDisplayName}"
+    },
+    "archive": {
+      "text": "Are you sure you want to archive {objectDisplayName}?",
+      "title": "Archive {objectDisplayName}"
+    },
+    "close": {
+      "text": "Are you sure you want to close {objectDisplayName}?",
+      "title": "Close {objectDisplayName}"
+    },
+    "delete": {
+      "text": "Are you sure you want to delete {objectDisplayName}?",
+      "title": "Delete {objectDisplayName}"
+    },
+    "stop": {
+      "text": "Are you sure you want to stop {objectDisplayName}?",
+      "title": "Stop {objectDisplayName}"
+    },
+    "cancel": {
+      "text": "Are you sure you want to finish {objectDisplayName}?",
+      "title": "Cancel {objectDisplayName}"
+    },
+    "unschedule": {
+      "text": "Are you sure you want to unschedule {objectDisplayName} ? Once unscheduled, the e-mail campaign will be available in the draft.",
+      "title": "Unschedule {objectDisplayName}"
+    },
+    "pause": {
+      "text": "Are you sure you want to pause {objectDisplayName}?",
+      "title": "Pause {objectDisplayName}"
+    },
+    "copy": {
+      "title": "Copy {objectDisplayName}"
+    },
+    "rename": {
+      "title": "Rename {objectDisplayName}"
+    },
+    "reschedule": {
+      "title": "Reschedule {objectDisplayName}"
+    },
+    "understoodBtn": "I have understood",
+    "wantToContinue": "Do you want to continue?",
+    "linkChecker": "Link Checker",
+    "noLink": "There is no link",
+    "overlay": {
+      "fetching": "Checking for existing request...",
+      "fetchingInError": "Error when checking for an existing request",
+      "opOnGoing": "Operation is currently processing...",
+      "opInError": "Operation couldn't be processed. Try again later..."
+    }
+  },
+  "statusType": {
+    "inDefinition": "In definition",
+    "in_definition": "In definition",
+    "published": "Published",
+    "archived": "Archived",
+    "active": "Active",
+    "inactive": "Paused",
+    "toActive": "Awaiting to be active",
+    "toInactive": "Awaiting to be inactive",
+    "toReschedule": "Awaiting to be reschedule",
+    "toFinish": "Awaiting to be finished",
+    "toDelete": "Awaiting to be deleting",
+    "inError": "In error",
+    "in_error": "In error",
+    "unknown": "Unknown status",
+    "unprocessed": "Unprocessed",
+    "scheduled": "Scheduled",
+    "unscheduled": "Unscheduled",
+    "inProgress": "In progress",
+    "in_progress": "In progress",
+    "succeeded": "Finished",
+    "failed": "In error",
+    "finished": "Finished",
+    "closed": "Closed",
+    "status": "Status",
+    "edition": "Edition",
+    "activated": "Active",
+    "activating": "Activating",
+    "finalizing": "Finalizing request",
+    "finalized": "Finalizing",
+    "killing": "Stopping",
+    "killed": "Finished",
+    "deleting": "Deleting",
+    "deleted": "Deleted"
+  },
+  "error": {
+    "manageError": {
+      "networkError": "A network error occurred during the repatriation of the data. Please retry later."
+    }
+  },
+  "errorForm": {
+    "409": "A conflict has occured with an existing resource. Please, update your data and try again",
+    "hasOccurred": "An error has occurred, please try again later.",
+    "fieldIsRequired": "Field is required!",
+    "invalidField": "Invalid field !",
+    "azPattern": "Do not match pattern [a-z]",
+    "emailPattern": "This field doesn't contain a valid e-mail address",
+    "cronPattern": "The cron expression is not valid",
+    "nameAlreadyExist": "The name already exists",
+    "smallText": "Small text only (2-10 characters)",
+    "fileFormat": "Format error: {listOfFiles}",
+    "alphanumericPattern": "This field can only contain alphanumeric characters",
+    "startWithALetterPattern": "This field must start with a letter",
+    "alphanumericAndStartWithALetterPattern": "This field can only contain alphanumeric characters and has to start with a letter",
+    "alphanumericAndStartWithALetterOrEmptyPattern": "This field can only contain alphanumeric characters and has to start with a letter or empty",
+    "duplicatesItems": "Duplicate fields"
+  },
+  "code": {
+    "civilState": {
+      "single": "Single",
+      "married": "Married",
+      "inCouple": "Living together",
+      "widowed": "Widower/Widow",
+      "divorced": "Divorced",
+      "other": "Other"
+    },
+    "personTitle": {
+      "mr": "Mr",
+      "mister": "Mr",
+      "mrs": "Mrs",
+      "madam": "Mrs",
+      "ms": "Ms",
+      "miss": "Ms"
+    },
+    "gender": {
+      "f": "Woman",
+      "m": "Man"
+    },
+    "password": "****"
+  },
+  "linkChecker": {
+    "listLinks": {
+      "title": "Back to all links"
+    }
+  },
+  "linkManager": {
+    "ActitoListLinks": {
+      "title": "List of links"
+    }
+  },
+  "linkPicker": {
+    "url": {
+      "label": "Link"
+    },
+    "text": {
+      "label": "Link text"
+    },
+    "urlName": {
+      "label": "Name (used for the sending report)",
+      "name": "Name: ",
+      "notDefined": "Not defined",
+      "placeholder": "Your tracking name"
+    },
+    "title": {
+      "label": "Title",
+      "helper": "Link title will be used for the link follow-up at sending."
+    }
+  },
+  "mass": "Mass",
+  "marketing": "Marketing",
+  "scenarized": "Scenarized",
+  "transactional": "Transactional",
+  "abversion": "A/B testing",
+  "seeAlso": {
+    "otherActions": "Other Actions:"
+  },
+  "civilState": {
+    "divorced": "Divorced",
+    "incouple": "Living together",
+    "married": "Married",
+    "other": "Other",
+    "single": "Single",
+    "widowed": "Widower/Widow"
+  },
+  "gender": {
+    "f": "Woman",
+    "m": "Man"
+  },
+  "linkCheck": {
+    "waiting": "Checking…",
+    "neutre": "Checking is not possible: personalized link or mailto",
+    "error": "The link is not valid",
+    "success": "The link is valid",
+    "unknown": "The link could not be checked due to an internal error"
+  },
+  "countProfileTarget": {
+    "count": "Number of targeted profiles : {count}",
+    "error": "an error occurred while resolving the targeting",
+    "subscriptionNotFound": "Subscription not found",
+    "calculate": "Calculate",
+    "lastResolutionDate": "Last count : {lastResolutionDate}",
+    "waitingForResult": "The calculation may take a while. If it takes more than 10 seconds, you will be notified when the result is available."
+  },
+  "totalAmountInCent": "Total amount ({currency})",
+  "averageAmountInCent": "Average amount ({currency})",
+  "amount": "Amount ({currency})",
+  "totalAmounts": "Total Amount ({currencySymbol})",
+  "noAccessForOption": "You can't access this option, please contact your licence admin or the ACTITO support for further information.",
+  "modalTimeZoneConverter": {
+    "title": "Convert date",
+    "subtitle": {
+      "UTC": "UTC",
+      "localeTime": "My locale time"
+    }
+  },
+  "day": {
+    "monday": "monday",
+    "tuesday": "tuesday",
+    "wednesday": "wednesday",
+    "thursday": "thursday",
+    "friday": "friday",
+    "saturday": "saturday",
+    "sunday": "sunday"
+  }
+}
